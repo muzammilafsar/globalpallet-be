@@ -132,7 +132,7 @@ var OrderSchema = new Schema({
             type: String
         },
         pincode: {
-            type: Number
+            type: String
         },
         locality: {
             type: String
